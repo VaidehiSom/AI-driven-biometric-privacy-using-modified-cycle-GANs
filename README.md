@@ -1,4 +1,4 @@
-# Cycle GANs for biometric conversion
+# AI-driven biometric privacy using modified cycle GANs
 
 ## Motivation
 In case of security break and fingerprint leakage, user’s original fingerprints should not be compromised
