@@ -1,4 +1,5 @@
 # AI-driven biometric privacy using modified cycle GANs
+This code is the official implementation of the paper [Secure and Privacy Preserving Proxy Biometrics Identities](https://arxiv.org/pdf/2212.10812.pdf)
 
 ## Motivation
 In case of security break and fingerprint leakage, user’s original fingerprints should not be compromised
